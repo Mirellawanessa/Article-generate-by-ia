@@ -52,7 +52,7 @@ Lexica.art:
 
 Use the above prompts in the suggested tools to generate the base material and use a document editing tool like PowerPoint, LibreOffice, or InDesign for layout. The step-by-step video can be viewed on the [DIO](https://dio.me) platform.
 
-## 👨‍💻 Expert
+## 👩‍💻 Expert
 
 <p>
     <img 
